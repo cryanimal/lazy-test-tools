@@ -5,7 +5,7 @@
 
     <groupId>lazy.test</groupId>
     <artifactId>lazy-test-tools</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <properties>
 		<!-- Build args -->
@@ -189,7 +189,7 @@
        <repository>
          <id>github</id>
          <name>GitHub OWNER Apache Maven Packages</name>
-         <url>https://maven.pkg.github.com/cryanimal/REPOSITORY</url>
+         <url>https://maven.pkg.github.com/cryanimal/lazy-test-tools</url>
        </repository>
     </distributionManagement>
     <build>
